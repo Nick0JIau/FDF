@@ -17,7 +17,7 @@
 # define HEIGHT 1080
 # define TITTLE "FDF"
 
-# include "mlx.h"
+# include "../minilibx/mlx.h"
 # include "../libft/inc/libft.h"
 # include <fcntl.h>
 # include <math.h>
